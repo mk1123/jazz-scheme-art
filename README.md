@@ -3,3 +3,5 @@ This includes a tail-call optimized interpreter for the Scheme language that I c
 
 
 ![](jazz-artwork.jpg?raw=true)
+
+For this program, I had to code the ellipse method and use it to create the vinyl, the notes, and the path for the notes. I plan to update this to include smoother graphics, a variety of colors, and a gradient background.
